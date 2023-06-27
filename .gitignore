@@ -1,0 +1,3 @@
+__pycache__
+# se crea en la carpeta principal un . gitignore y luego dentro el nombre de la
+# carpeta que quiero ignorar para no subir a github
