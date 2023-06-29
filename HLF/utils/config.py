@@ -1,0 +1,3 @@
+BOARD_SIZE=3
+EMPTY_SIGN ="-"
+BOAT_SIGN="o"
